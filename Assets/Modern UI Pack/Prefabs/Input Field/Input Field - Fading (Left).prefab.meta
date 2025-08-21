@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a1708e3518f0433cba741f586c1ecde
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201717
+  packageName: Modern UI Pack
+  packageVersion: 5.5.28
+  assetPath: Assets/Modern UI Pack/Prefabs/Input Field/Input Field - Fading (Left).prefab
+  uploadId: 778406

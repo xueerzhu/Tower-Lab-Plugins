@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b150b5e38480429e8c3cd3f6143bca7
+timeCreated: 1493661525
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201717
+  packageName: Modern UI Pack
+  packageVersion: 5.5.28
+  assetPath: Assets/Modern UI Pack/Animations/Progress Bar/Material Spinner.anim
+  uploadId: 778406
